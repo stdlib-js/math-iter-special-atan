@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/math-iter-special-atan",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the arctangent of each iterated value.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-atan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.atan",
+    "atan",
+    "tan",
+    "arctangent",
+    "arc",
+    "inverse",
+    "trig",
+    "trigonometry",
+    "radians",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
