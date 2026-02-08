@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterAtan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-atan@deno/mod.js';
+import iterAtan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-atan@v0.2.3-deno/mod.js';
 ```
 
 #### iterAtan( iterator )
@@ -110,7 +110,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-uniform@deno/mod.js';
-import iterAtan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-atan@deno/mod.js';
+import iterAtan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-atan@v0.2.3-deno/mod.js';
 
 // Create a seeded iterator for generating pseudorandom numbers:
 var rand = uniform( -2.0, 2.0, {
